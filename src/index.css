@@ -67,3 +67,8 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.company-img {
+  width: 250px;
+  height: 250px;
+}
